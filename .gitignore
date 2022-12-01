@@ -1,0 +1,15 @@
+composer.lock
+.env
+.idea
+cache
+.vagrant
+upload
+vendor
+!public/assets/default/NovinNaghsh2019/js/vendor/
+application/logs
+sitemap_shop.xml
+sitemap.xml
+
+# sql
+custom.sql
+mysql

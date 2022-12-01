@@ -1,0 +1,16 @@
+primary colors:
+
+red: #C02035
+dark black: #282828
+
+
+secondary colors:
+
+green: #BDD031
+blue: #1C4279
+dark brown: #7A1E18
+dark yellow: #EEC61F
+
+tonalite colors:
+
+dark mellow primary red: #d36271

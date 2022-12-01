@@ -1,0 +1,55 @@
+{
+  "name": "saeednavaro/novinnaghsh",
+  "description": "NovinNaghsh Online Printing Services",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Saeid Tavakoli",
+      "email": "saeed.g71@gmail.com",
+      "role": "Back-end, Dev, DB, Architecture"
+    },
+    {
+      "name": "Amin RezaZade",
+      "role": "Front-end, UI, UX"
+    }
+  ],
+  "homepage": "http://novinnaghsh.ir",
+  "support": {
+    "email": "saeed.g71@gmail.com"
+  },
+  "require": {
+    "php": ">=7.2",
+    "codeigniter/framework": "3.1.*",
+    "illuminate/database": "7.16.*",
+    "illuminate/events": "7.16.*",
+    "illuminate/filesystem": "7.16.*",
+    "illuminate/pagination": "7.16.*",
+    "smarty/smarty": "3.1.*",
+    "miladr/jalali": "dev-master",
+    "rossriley/upload": "1.2.*",
+    "doctrine/dbal": "2.10.*",
+    "zetacomponents/archive": "^1.5",
+    "eventviva/php-image-resize": "^1.5",
+    "sybio/image-workshop": "^2.0",
+    "chriskacerguis/codeigniter-restserver": "^3.0",
+    "anthonymartin/geo-location": "^1.0",
+    "intervention/image": "^2.5",
+    "league/flysystem-ziparchive": "^1.0",
+    "vlucas/phpdotenv": "^5.1",
+    "guzzlehttp/guzzle": "^7.0",
+    "ext-json": "*",
+    "wyndow/fuzzywuzzy": "^0.6.0",
+    "symfony/event-dispatcher": "^5.2",
+    "samdark/sitemap": "^2.2",
+    "monolog/monolog": "^2.2",
+    "morilog/jalali": "^3.2"
+  },
+  "require-dev": {
+    "mikey179/vfsstream": "1.1.*",
+    "symfony/var-dumper": "5.1.*",
+    "symfony/debug": "4.4.*",
+    "cartalyst/sentinel": "4.0.*",
+    "ircmaxell/password-compat": "1.0.*",
+    "jamierumbelow/presenters": "1.0.*"
+  }
+}

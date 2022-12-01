@@ -1,0 +1,72 @@
+body {
+    font-family: Shabnam;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #666;
+    font-weight: 400;
+
+    direction: rtl;
+    text-align: right;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+}
+
+img {
+    max-width: 100%;
+}
+
+/*header section*/
+.landing-header {
+    padding: 17px 0 20px;
+
+    background-size: cover;
+    background-position: 0 72%;
+    background-repeat: no-repeat;
+    background-image: url("../images/landing/background-header.png");
+}
+.landing-logo {
+    display: inline-block;
+    width: 174px;
+    padding: 7px 9px;
+    border-radius: 4px;
+
+    background-color: #fff;
+}
+
+/*video section*/
+.landing-video {
+    padding: 40px 0;
+}
+.landing-head {
+    margin: 0 0 12px;
+
+    color: #666;
+    font-size: 18px;
+}
+.landing-text {
+    line-height: 1.7;
+    color: #707070;
+}
+.video {
+    border: 1px solid #eee;
+    border-radius: 8px;
+    height: 350px;
+
+    background-color: #eee;
+}
+
+/*step by step section*/
+.landing-process {
+    padding: 35px 0 40px;
+
+    background-color: #f5f5f5;
+}
+.landing-head2 {
+    margin: 0 0 25px;
+
+    color: #444;
+    font-size: 19px;
+    font-weight: 500;
+}
